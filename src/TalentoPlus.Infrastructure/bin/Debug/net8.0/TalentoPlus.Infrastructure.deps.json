@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "TalentoPlus.Infrastructure/1.0.0": {
+        "dependencies": {
+          "TalentoPlus.Application": "1.0.0",
+          "TalentoPlus.Domain": "1.0.0"
+        },
+        "runtime": {
+          "TalentoPlus.Infrastructure.dll": {}
+        }
+      },
+      "TalentoPlus.Application/1.0.0": {
+        "dependencies": {
+          "TalentoPlus.Domain": "1.0.0"
+        },
+        "runtime": {
+          "TalentoPlus.Application.dll": {}
+        }
+      },
+      "TalentoPlus.Domain/1.0.0": {
+        "runtime": {
+          "TalentoPlus.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TalentoPlus.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TalentoPlus.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TalentoPlus.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

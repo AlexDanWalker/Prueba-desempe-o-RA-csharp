@@ -1,0 +1,251 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/coders/Escritorio/PD Daniel Ariza/TalentPlus/src/TalentoPlus.Api/TalentoPlus.Api.csproj": {}
+  },
+  "projects": {
+    "/home/coders/Escritorio/PD Daniel Ariza/TalentPlus/src/TalentoPlus.Api/TalentoPlus.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/coders/Escritorio/PD Daniel Ariza/TalentPlus/src/TalentoPlus.Api/TalentoPlus.Api.csproj",
+        "projectName": "TalentoPlus.Api",
+        "projectPath": "/home/coders/Escritorio/PD Daniel Ariza/TalentPlus/src/TalentoPlus.Api/TalentoPlus.Api.csproj",
+        "packagesPath": "/home/coders/.nuget/packages/",
+        "outputPath": "/home/coders/Escritorio/PD Daniel Ariza/TalentPlus/src/TalentoPlus.Api/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/coders/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/coders/Escritorio/PD Daniel Ariza/TalentPlus/src/TalentoPlus.Application/TalentoPlus.Application.csproj": {
+                "projectPath": "/home/coders/Escritorio/PD Daniel Ariza/TalentPlus/src/TalentoPlus.Application/TalentoPlus.Application.csproj"
+              },
+              "/home/coders/Escritorio/PD Daniel Ariza/TalentPlus/src/TalentoPlus.Infrastructure/TalentoPlus.Infrastructure.csproj": {
+                "projectPath": "/home/coders/Escritorio/PD Daniel Ariza/TalentPlus/src/TalentoPlus.Infrastructure/TalentoPlus.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[8.0.21, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.6.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.121/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/coders/Escritorio/PD Daniel Ariza/TalentPlus/src/TalentoPlus.Application/TalentoPlus.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/coders/Escritorio/PD Daniel Ariza/TalentPlus/src/TalentoPlus.Application/TalentoPlus.Application.csproj",
+        "projectName": "TalentoPlus.Application",
+        "projectPath": "/home/coders/Escritorio/PD Daniel Ariza/TalentPlus/src/TalentoPlus.Application/TalentoPlus.Application.csproj",
+        "packagesPath": "/home/coders/.nuget/packages/",
+        "outputPath": "/home/coders/Escritorio/PD Daniel Ariza/TalentPlus/src/TalentoPlus.Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/coders/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/coders/Escritorio/PD Daniel Ariza/TalentPlus/src/TalentoPlus.Domain/TalentoPlus.Domain.csproj": {
+                "projectPath": "/home/coders/Escritorio/PD Daniel Ariza/TalentPlus/src/TalentoPlus.Domain/TalentoPlus.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.121/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/coders/Escritorio/PD Daniel Ariza/TalentPlus/src/TalentoPlus.Domain/TalentoPlus.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/coders/Escritorio/PD Daniel Ariza/TalentPlus/src/TalentoPlus.Domain/TalentoPlus.Domain.csproj",
+        "projectName": "TalentoPlus.Domain",
+        "projectPath": "/home/coders/Escritorio/PD Daniel Ariza/TalentPlus/src/TalentoPlus.Domain/TalentoPlus.Domain.csproj",
+        "packagesPath": "/home/coders/.nuget/packages/",
+        "outputPath": "/home/coders/Escritorio/PD Daniel Ariza/TalentPlus/src/TalentoPlus.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/coders/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.121/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/coders/Escritorio/PD Daniel Ariza/TalentPlus/src/TalentoPlus.Infrastructure/TalentoPlus.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/coders/Escritorio/PD Daniel Ariza/TalentPlus/src/TalentoPlus.Infrastructure/TalentoPlus.Infrastructure.csproj",
+        "projectName": "TalentoPlus.Infrastructure",
+        "projectPath": "/home/coders/Escritorio/PD Daniel Ariza/TalentPlus/src/TalentoPlus.Infrastructure/TalentoPlus.Infrastructure.csproj",
+        "packagesPath": "/home/coders/.nuget/packages/",
+        "outputPath": "/home/coders/Escritorio/PD Daniel Ariza/TalentPlus/src/TalentoPlus.Infrastructure/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/coders/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/coders/Escritorio/PD Daniel Ariza/TalentPlus/src/TalentoPlus.Application/TalentoPlus.Application.csproj": {
+                "projectPath": "/home/coders/Escritorio/PD Daniel Ariza/TalentPlus/src/TalentoPlus.Application/TalentoPlus.Application.csproj"
+              },
+              "/home/coders/Escritorio/PD Daniel Ariza/TalentPlus/src/TalentoPlus.Domain/TalentoPlus.Domain.csproj": {
+                "projectPath": "/home/coders/Escritorio/PD Daniel Ariza/TalentPlus/src/TalentoPlus.Domain/TalentoPlus.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.121/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

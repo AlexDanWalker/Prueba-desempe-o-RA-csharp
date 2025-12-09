@@ -1,0 +1,15 @@
+/home/coders/Escritorio/PD Daniel Ariza/TalentPlus/src/TalentoPlus.Application/bin/Debug/net8.0/TalentoPlus.Application.deps.json
+/home/coders/Escritorio/PD Daniel Ariza/TalentPlus/src/TalentoPlus.Application/bin/Debug/net8.0/TalentoPlus.Application.dll
+/home/coders/Escritorio/PD Daniel Ariza/TalentPlus/src/TalentoPlus.Application/bin/Debug/net8.0/TalentoPlus.Application.pdb
+/home/coders/Escritorio/PD Daniel Ariza/TalentPlus/src/TalentoPlus.Application/bin/Debug/net8.0/TalentoPlus.Domain.dll
+/home/coders/Escritorio/PD Daniel Ariza/TalentPlus/src/TalentoPlus.Application/bin/Debug/net8.0/TalentoPlus.Domain.pdb
+/home/coders/Escritorio/PD Daniel Ariza/TalentPlus/src/TalentoPlus.Application/obj/Debug/net8.0/TalentoPlus.Application.csproj.AssemblyReference.cache
+/home/coders/Escritorio/PD Daniel Ariza/TalentPlus/src/TalentoPlus.Application/obj/Debug/net8.0/TalentoPlus.Application.GeneratedMSBuildEditorConfig.editorconfig
+/home/coders/Escritorio/PD Daniel Ariza/TalentPlus/src/TalentoPlus.Application/obj/Debug/net8.0/TalentoPlus.Application.AssemblyInfoInputs.cache
+/home/coders/Escritorio/PD Daniel Ariza/TalentPlus/src/TalentoPlus.Application/obj/Debug/net8.0/TalentoPlus.Application.AssemblyInfo.cs
+/home/coders/Escritorio/PD Daniel Ariza/TalentPlus/src/TalentoPlus.Application/obj/Debug/net8.0/TalentoPlus.Application.csproj.CoreCompileInputs.cache
+/home/coders/Escritorio/PD Daniel Ariza/TalentPlus/src/TalentoPlus.Application/obj/Debug/net8.0/TalentoPlus.Application.csproj.CopyComplete
+/home/coders/Escritorio/PD Daniel Ariza/TalentPlus/src/TalentoPlus.Application/obj/Debug/net8.0/TalentoPlus.Application.dll
+/home/coders/Escritorio/PD Daniel Ariza/TalentPlus/src/TalentoPlus.Application/obj/Debug/net8.0/refint/TalentoPlus.Application.dll
+/home/coders/Escritorio/PD Daniel Ariza/TalentPlus/src/TalentoPlus.Application/obj/Debug/net8.0/TalentoPlus.Application.pdb
+/home/coders/Escritorio/PD Daniel Ariza/TalentPlus/src/TalentoPlus.Application/obj/Debug/net8.0/ref/TalentoPlus.Application.dll

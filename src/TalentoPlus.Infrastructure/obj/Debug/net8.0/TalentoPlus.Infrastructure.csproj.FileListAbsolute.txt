@@ -1,0 +1,17 @@
+/home/coders/Escritorio/PD Daniel Ariza/TalentPlus/src/TalentoPlus.Infrastructure/bin/Debug/net8.0/TalentoPlus.Infrastructure.deps.json
+/home/coders/Escritorio/PD Daniel Ariza/TalentPlus/src/TalentoPlus.Infrastructure/bin/Debug/net8.0/TalentoPlus.Infrastructure.dll
+/home/coders/Escritorio/PD Daniel Ariza/TalentPlus/src/TalentoPlus.Infrastructure/bin/Debug/net8.0/TalentoPlus.Infrastructure.pdb
+/home/coders/Escritorio/PD Daniel Ariza/TalentPlus/src/TalentoPlus.Infrastructure/bin/Debug/net8.0/TalentoPlus.Application.dll
+/home/coders/Escritorio/PD Daniel Ariza/TalentPlus/src/TalentoPlus.Infrastructure/bin/Debug/net8.0/TalentoPlus.Domain.dll
+/home/coders/Escritorio/PD Daniel Ariza/TalentPlus/src/TalentoPlus.Infrastructure/bin/Debug/net8.0/TalentoPlus.Application.pdb
+/home/coders/Escritorio/PD Daniel Ariza/TalentPlus/src/TalentoPlus.Infrastructure/bin/Debug/net8.0/TalentoPlus.Domain.pdb
+/home/coders/Escritorio/PD Daniel Ariza/TalentPlus/src/TalentoPlus.Infrastructure/obj/Debug/net8.0/TalentoPlus.Infrastructure.csproj.AssemblyReference.cache
+/home/coders/Escritorio/PD Daniel Ariza/TalentPlus/src/TalentoPlus.Infrastructure/obj/Debug/net8.0/TalentoPlus.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/home/coders/Escritorio/PD Daniel Ariza/TalentPlus/src/TalentoPlus.Infrastructure/obj/Debug/net8.0/TalentoPlus.Infrastructure.AssemblyInfoInputs.cache
+/home/coders/Escritorio/PD Daniel Ariza/TalentPlus/src/TalentoPlus.Infrastructure/obj/Debug/net8.0/TalentoPlus.Infrastructure.AssemblyInfo.cs
+/home/coders/Escritorio/PD Daniel Ariza/TalentPlus/src/TalentoPlus.Infrastructure/obj/Debug/net8.0/TalentoPlus.Infrastructure.csproj.CoreCompileInputs.cache
+/home/coders/Escritorio/PD Daniel Ariza/TalentPlus/src/TalentoPlus.Infrastructure/obj/Debug/net8.0/TalentoPlus.Infrastructure.csproj.CopyComplete
+/home/coders/Escritorio/PD Daniel Ariza/TalentPlus/src/TalentoPlus.Infrastructure/obj/Debug/net8.0/TalentoPlus.Infrastructure.dll
+/home/coders/Escritorio/PD Daniel Ariza/TalentPlus/src/TalentoPlus.Infrastructure/obj/Debug/net8.0/refint/TalentoPlus.Infrastructure.dll
+/home/coders/Escritorio/PD Daniel Ariza/TalentPlus/src/TalentoPlus.Infrastructure/obj/Debug/net8.0/TalentoPlus.Infrastructure.pdb
+/home/coders/Escritorio/PD Daniel Ariza/TalentPlus/src/TalentoPlus.Infrastructure/obj/Debug/net8.0/ref/TalentoPlus.Infrastructure.dll
