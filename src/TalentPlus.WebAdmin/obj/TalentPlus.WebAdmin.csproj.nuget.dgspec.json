@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/coders/Escritorio/PD Daniel Ariza/TalentPlus/src/TalentPlus.WebAdmin/TalentPlus.WebAdmin.csproj": {}
+    "/home/coders/Escritorio/CSharp/Prueba-desempe-o-RA-csharp/src/TalentPlus.WebAdmin/TalentPlus.WebAdmin.csproj": {}
   },
   "projects": {
-    "/home/coders/Escritorio/PD Daniel Ariza/TalentPlus/src/TalentPlus.Application/TalentPlus.Application.csproj": {
+    "/home/coders/Escritorio/CSharp/Prueba-desempe-o-RA-csharp/src/TalentPlus.Application/TalentPlus.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/coders/Escritorio/PD Daniel Ariza/TalentPlus/src/TalentPlus.Application/TalentPlus.Application.csproj",
+        "projectUniqueName": "/home/coders/Escritorio/CSharp/Prueba-desempe-o-RA-csharp/src/TalentPlus.Application/TalentPlus.Application.csproj",
         "projectName": "TalentPlus.Application",
-        "projectPath": "/home/coders/Escritorio/PD Daniel Ariza/TalentPlus/src/TalentPlus.Application/TalentPlus.Application.csproj",
+        "projectPath": "/home/coders/Escritorio/CSharp/Prueba-desempe-o-RA-csharp/src/TalentPlus.Application/TalentPlus.Application.csproj",
         "packagesPath": "/home/coders/.nuget/packages/",
-        "outputPath": "/home/coders/Escritorio/PD Daniel Ariza/TalentPlus/src/TalentPlus.Application/obj/",
+        "outputPath": "/home/coders/Escritorio/CSharp/Prueba-desempe-o-RA-csharp/src/TalentPlus.Application/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/coders/.nuget/NuGet/NuGet.Config"
@@ -26,8 +26,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/home/coders/Escritorio/PD Daniel Ariza/TalentPlus/src/TalentPlus.Domain/TalentPlus.Domain.csproj": {
-                "projectPath": "/home/coders/Escritorio/PD Daniel Ariza/TalentPlus/src/TalentPlus.Domain/TalentPlus.Domain.csproj"
+              "/home/coders/Escritorio/CSharp/Prueba-desempe-o-RA-csharp/src/TalentPlus.Domain/TalentPlus.Domain.csproj": {
+                "projectPath": "/home/coders/Escritorio/CSharp/Prueba-desempe-o-RA-csharp/src/TalentPlus.Domain/TalentPlus.Domain.csproj"
               }
             }
           }
@@ -95,14 +95,14 @@
         }
       }
     },
-    "/home/coders/Escritorio/PD Daniel Ariza/TalentPlus/src/TalentPlus.Domain/TalentPlus.Domain.csproj": {
+    "/home/coders/Escritorio/CSharp/Prueba-desempe-o-RA-csharp/src/TalentPlus.Domain/TalentPlus.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/coders/Escritorio/PD Daniel Ariza/TalentPlus/src/TalentPlus.Domain/TalentPlus.Domain.csproj",
+        "projectUniqueName": "/home/coders/Escritorio/CSharp/Prueba-desempe-o-RA-csharp/src/TalentPlus.Domain/TalentPlus.Domain.csproj",
         "projectName": "TalentPlus.Domain",
-        "projectPath": "/home/coders/Escritorio/PD Daniel Ariza/TalentPlus/src/TalentPlus.Domain/TalentPlus.Domain.csproj",
+        "projectPath": "/home/coders/Escritorio/CSharp/Prueba-desempe-o-RA-csharp/src/TalentPlus.Domain/TalentPlus.Domain.csproj",
         "packagesPath": "/home/coders/.nuget/packages/",
-        "outputPath": "/home/coders/Escritorio/PD Daniel Ariza/TalentPlus/src/TalentPlus.Domain/obj/",
+        "outputPath": "/home/coders/Escritorio/CSharp/Prueba-desempe-o-RA-csharp/src/TalentPlus.Domain/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/coders/.nuget/NuGet/NuGet.Config"
@@ -148,14 +148,14 @@
         }
       }
     },
-    "/home/coders/Escritorio/PD Daniel Ariza/TalentPlus/src/TalentPlus.WebAdmin/TalentPlus.WebAdmin.csproj": {
+    "/home/coders/Escritorio/CSharp/Prueba-desempe-o-RA-csharp/src/TalentPlus.WebAdmin/TalentPlus.WebAdmin.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/coders/Escritorio/PD Daniel Ariza/TalentPlus/src/TalentPlus.WebAdmin/TalentPlus.WebAdmin.csproj",
+        "projectUniqueName": "/home/coders/Escritorio/CSharp/Prueba-desempe-o-RA-csharp/src/TalentPlus.WebAdmin/TalentPlus.WebAdmin.csproj",
         "projectName": "TalentPlus.WebAdmin",
-        "projectPath": "/home/coders/Escritorio/PD Daniel Ariza/TalentPlus/src/TalentPlus.WebAdmin/TalentPlus.WebAdmin.csproj",
+        "projectPath": "/home/coders/Escritorio/CSharp/Prueba-desempe-o-RA-csharp/src/TalentPlus.WebAdmin/TalentPlus.WebAdmin.csproj",
         "packagesPath": "/home/coders/.nuget/packages/",
-        "outputPath": "/home/coders/Escritorio/PD Daniel Ariza/TalentPlus/src/TalentPlus.WebAdmin/obj/",
+        "outputPath": "/home/coders/Escritorio/CSharp/Prueba-desempe-o-RA-csharp/src/TalentPlus.WebAdmin/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/coders/.nuget/NuGet/NuGet.Config"
@@ -170,11 +170,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/home/coders/Escritorio/PD Daniel Ariza/TalentPlus/src/TalentPlus.Application/TalentPlus.Application.csproj": {
-                "projectPath": "/home/coders/Escritorio/PD Daniel Ariza/TalentPlus/src/TalentPlus.Application/TalentPlus.Application.csproj"
+              "/home/coders/Escritorio/CSharp/Prueba-desempe-o-RA-csharp/src/TalentPlus.Application/TalentPlus.Application.csproj": {
+                "projectPath": "/home/coders/Escritorio/CSharp/Prueba-desempe-o-RA-csharp/src/TalentPlus.Application/TalentPlus.Application.csproj"
               },
-              "/home/coders/Escritorio/PD Daniel Ariza/TalentPlus/src/TalentPlus.Domain/TalentPlus.Domain.csproj": {
-                "projectPath": "/home/coders/Escritorio/PD Daniel Ariza/TalentPlus/src/TalentPlus.Domain/TalentPlus.Domain.csproj"
+              "/home/coders/Escritorio/CSharp/Prueba-desempe-o-RA-csharp/src/TalentPlus.Domain/TalentPlus.Domain.csproj": {
+                "projectPath": "/home/coders/Escritorio/CSharp/Prueba-desempe-o-RA-csharp/src/TalentPlus.Domain/TalentPlus.Domain.csproj"
               }
             }
           }

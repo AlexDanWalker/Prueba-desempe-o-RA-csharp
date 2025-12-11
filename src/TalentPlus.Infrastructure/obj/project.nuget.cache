@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Vhn31VdnWB4/F3e0hl86YmwT9ZiY0ok/P+pT9I18e11ZPJa9Ek6Jwh2PfMUksrDt9nF6stCacleP/doNp2GSCw==",
+  "dgSpecHash": "sx68V1+LjnBXThbWtvxJxrQB++YFaWYhYXe1nYk944yHenBwE4cgkHtwehA66c51zxDgjK05vSwYUL6xM69hZw==",
   "success": true,
-  "projectFilePath": "/home/coders/Escritorio/PD Daniel Ariza/TalentPlus/src/TalentPlus.Infrastructure/TalentPlus.Infrastructure.csproj",
+  "projectFilePath": "/home/coders/Escritorio/CSharp/Prueba-desempe-o-RA-csharp/src/TalentPlus.Infrastructure/TalentPlus.Infrastructure.csproj",
   "expectedPackageFiles": [
     "/home/coders/.nuget/packages/automapper/12.0.1/automapper.12.0.1.nupkg.sha512",
     "/home/coders/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/12.0.1/automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

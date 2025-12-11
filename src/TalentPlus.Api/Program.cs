@@ -73,11 +73,12 @@ builder.Services.AddScoped<IEmployeePdfGenerator, EmployeePdfGenerator>();
 // 🔹 Registro de servicios de aplicación
 builder.Services.AddScoped<IEmployeeService>(sp =>
 {
+    var repository = sp.GetRequiredService<IEmployeeRepository>();
     var excelImporter = sp.GetRequiredService<IEmployeeExcelImporter>();
     var pdfGenerator = sp.GetRequiredService<IEmployeePdfGenerator>();
     var emailService = sp.GetRequiredService<IEmailService>();
 
-    return new EmployeeService(null!, excelImporter, pdfGenerator, emailService);
+    return new EmployeeService(repository, excelImporter, pdfGenerator, emailService);
 });
 
 builder.Services.AddScoped<IDepartmentService, DepartmentService>();

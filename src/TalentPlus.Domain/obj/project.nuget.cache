@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0KMUz2EO0+eOimR166EZMbwEhMdsJhY9sc/MsO2+TD5j1YFNzG4Famdr6MXpvSjzt0tjyW2wdAHh6qyYmdZ4ZQ==",
+  "dgSpecHash": "3d9obsqXcJ3UTMhCLne0MAU9Muhcv4WXsLMhico+T+gDwbYheaEWKLEWXAJopT53XY/WRazHgTim0AaC4dsM/w==",
   "success": true,
-  "projectFilePath": "/home/coders/Escritorio/PD Daniel Ariza/TalentPlus/src/TalentPlus.Domain/TalentPlus.Domain.csproj",
+  "projectFilePath": "/home/coders/Escritorio/CSharp/Prueba-desempe-o-RA-csharp/src/TalentPlus.Domain/TalentPlus.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

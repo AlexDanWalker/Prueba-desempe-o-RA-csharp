@@ -10,3 +10,15 @@
 /home/coders/Escritorio/PD Daniel Ariza/TalentPlus/src/TalentPlus.Domain/obj/Debug/net8.0/refint/TalentPlus.Domain.dll
 /home/coders/Escritorio/PD Daniel Ariza/TalentPlus/src/TalentPlus.Domain/obj/Debug/net8.0/TalentPlus.Domain.pdb
 /home/coders/Escritorio/PD Daniel Ariza/TalentPlus/src/TalentPlus.Domain/obj/Debug/net8.0/ref/TalentPlus.Domain.dll
+/home/coders/Escritorio/CSharp/Prueba-desempe-o-RA-csharp/src/TalentPlus.Domain/bin/Debug/net8.0/TalentPlus.Domain.deps.json
+/home/coders/Escritorio/CSharp/Prueba-desempe-o-RA-csharp/src/TalentPlus.Domain/bin/Debug/net8.0/TalentPlus.Domain.dll
+/home/coders/Escritorio/CSharp/Prueba-desempe-o-RA-csharp/src/TalentPlus.Domain/bin/Debug/net8.0/TalentPlus.Domain.pdb
+/home/coders/Escritorio/CSharp/Prueba-desempe-o-RA-csharp/src/TalentPlus.Domain/obj/Debug/net8.0/TalentPlus.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/coders/Escritorio/CSharp/Prueba-desempe-o-RA-csharp/src/TalentPlus.Domain/obj/Debug/net8.0/TalentPlus.Domain.AssemblyInfoInputs.cache
+/home/coders/Escritorio/CSharp/Prueba-desempe-o-RA-csharp/src/TalentPlus.Domain/obj/Debug/net8.0/TalentPlus.Domain.AssemblyInfo.cs
+/home/coders/Escritorio/CSharp/Prueba-desempe-o-RA-csharp/src/TalentPlus.Domain/obj/Debug/net8.0/TalentPlus.Domain.csproj.CoreCompileInputs.cache
+/home/coders/Escritorio/CSharp/Prueba-desempe-o-RA-csharp/src/TalentPlus.Domain/obj/Debug/net8.0/TalentPlus.Domain.sourcelink.json
+/home/coders/Escritorio/CSharp/Prueba-desempe-o-RA-csharp/src/TalentPlus.Domain/obj/Debug/net8.0/TalentPlus.Domain.dll
+/home/coders/Escritorio/CSharp/Prueba-desempe-o-RA-csharp/src/TalentPlus.Domain/obj/Debug/net8.0/refint/TalentPlus.Domain.dll
+/home/coders/Escritorio/CSharp/Prueba-desempe-o-RA-csharp/src/TalentPlus.Domain/obj/Debug/net8.0/TalentPlus.Domain.pdb
+/home/coders/Escritorio/CSharp/Prueba-desempe-o-RA-csharp/src/TalentPlus.Domain/obj/Debug/net8.0/ref/TalentPlus.Domain.dll

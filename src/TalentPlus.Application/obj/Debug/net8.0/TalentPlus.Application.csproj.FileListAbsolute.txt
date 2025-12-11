@@ -14,3 +14,19 @@
 /home/coders/Escritorio/PD Daniel Ariza/TalentPlus/src/TalentPlus.Application/bin/Debug/net8.0/TalentPlus.Domain.pdb
 /home/coders/Escritorio/PD Daniel Ariza/TalentPlus/src/TalentPlus.Application/obj/Debug/net8.0/TalentPlus.Application.csproj.AssemblyReference.cache
 /home/coders/Escritorio/PD Daniel Ariza/TalentPlus/src/TalentPlus.Application/obj/Debug/net8.0/TalentPlus.Application.csproj.CopyComplete
+/home/coders/Escritorio/CSharp/Prueba-desempe-o-RA-csharp/src/TalentPlus.Application/bin/Debug/net8.0/TalentPlus.Application.deps.json
+/home/coders/Escritorio/CSharp/Prueba-desempe-o-RA-csharp/src/TalentPlus.Application/bin/Debug/net8.0/TalentPlus.Application.dll
+/home/coders/Escritorio/CSharp/Prueba-desempe-o-RA-csharp/src/TalentPlus.Application/bin/Debug/net8.0/TalentPlus.Application.pdb
+/home/coders/Escritorio/CSharp/Prueba-desempe-o-RA-csharp/src/TalentPlus.Application/bin/Debug/net8.0/TalentPlus.Domain.dll
+/home/coders/Escritorio/CSharp/Prueba-desempe-o-RA-csharp/src/TalentPlus.Application/bin/Debug/net8.0/TalentPlus.Domain.pdb
+/home/coders/Escritorio/CSharp/Prueba-desempe-o-RA-csharp/src/TalentPlus.Application/obj/Debug/net8.0/TalentPlus.Application.csproj.AssemblyReference.cache
+/home/coders/Escritorio/CSharp/Prueba-desempe-o-RA-csharp/src/TalentPlus.Application/obj/Debug/net8.0/TalentPlus.Application.GeneratedMSBuildEditorConfig.editorconfig
+/home/coders/Escritorio/CSharp/Prueba-desempe-o-RA-csharp/src/TalentPlus.Application/obj/Debug/net8.0/TalentPlus.Application.AssemblyInfoInputs.cache
+/home/coders/Escritorio/CSharp/Prueba-desempe-o-RA-csharp/src/TalentPlus.Application/obj/Debug/net8.0/TalentPlus.Application.AssemblyInfo.cs
+/home/coders/Escritorio/CSharp/Prueba-desempe-o-RA-csharp/src/TalentPlus.Application/obj/Debug/net8.0/TalentPlus.Application.csproj.CoreCompileInputs.cache
+/home/coders/Escritorio/CSharp/Prueba-desempe-o-RA-csharp/src/TalentPlus.Application/obj/Debug/net8.0/TalentPlus.Application.sourcelink.json
+/home/coders/Escritorio/CSharp/Prueba-desempe-o-RA-csharp/src/TalentPlus.Application/obj/Debug/net8.0/TalentPlus.Application.csproj.CopyComplete
+/home/coders/Escritorio/CSharp/Prueba-desempe-o-RA-csharp/src/TalentPlus.Application/obj/Debug/net8.0/TalentPlus.Application.dll
+/home/coders/Escritorio/CSharp/Prueba-desempe-o-RA-csharp/src/TalentPlus.Application/obj/Debug/net8.0/refint/TalentPlus.Application.dll
+/home/coders/Escritorio/CSharp/Prueba-desempe-o-RA-csharp/src/TalentPlus.Application/obj/Debug/net8.0/TalentPlus.Application.pdb
+/home/coders/Escritorio/CSharp/Prueba-desempe-o-RA-csharp/src/TalentPlus.Application/obj/Debug/net8.0/ref/TalentPlus.Application.dll

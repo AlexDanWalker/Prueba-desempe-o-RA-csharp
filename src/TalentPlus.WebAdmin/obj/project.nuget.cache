@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ma2wO5/1aXc=",
+  "dgSpecHash": "PQ95rYlqZdUzBwVXBVCT1AzygwaM4Em0xd7SEWugqVnaDiowI5qSSKmigO2Ps8+MwnD5RmlGK4jnv3O4eQ1aYQ==",
   "success": true,
-  "projectFilePath": "/home/coders/Escritorio/PD Daniel Ariza/TalentPlus/src/TalentPlus.WebAdmin/TalentPlus.WebAdmin.csproj",
+  "projectFilePath": "/home/coders/Escritorio/CSharp/Prueba-desempe-o-RA-csharp/src/TalentPlus.WebAdmin/TalentPlus.WebAdmin.csproj",
   "expectedPackageFiles": [
     "/home/coders/.nuget/packages/automapper/12.0.1/automapper.12.0.1.nupkg.sha512",
     "/home/coders/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/12.0.1/automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
@@ -96,10 +96,8 @@
     {
       "code": "NU1603",
       "level": "Warning",
-      "message": "TalentPlus.WebAdmin depends on EPPlus (>= 6.3.2) but EPPlus 6.3.2 was not found. EPPlus 7.0.0 was resolved instead.",
-      "projectPath": "/home/coders/Escritorio/PD Daniel Ariza/TalentPlus/src/TalentPlus.WebAdmin/TalentPlus.WebAdmin.csproj",
       "warningLevel": 1,
-      "filePath": "/home/coders/Escritorio/PD Daniel Ariza/TalentPlus/src/TalentPlus.WebAdmin/TalentPlus.WebAdmin.csproj",
+      "message": "TalentPlus.WebAdmin depends on EPPlus (>= 6.3.2) but EPPlus 6.3.2 was not found. An approximate best match of EPPlus 7.0.0 was resolved.",
       "libraryId": "EPPlus",
       "targetGraphs": [
         "net8.0"

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TalentPlus.WebAdmin")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+64e85caa1b23eb5ca3709a3b09cde8dc5891b52f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0d6ce72a95d9e5fb971473522ad4ed855abee4ac")]
 [assembly: System.Reflection.AssemblyProductAttribute("TalentPlus.WebAdmin")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TalentPlus.WebAdmin")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/coders/Escritorio/PD Daniel Ariza/TalentPlus/src/TalentPlus.Domain/TalentPlus.Domain.csproj",
+      "projectUniqueName": "/home/coders/Escritorio/CSharp/Prueba-desempe-o-RA-csharp/src/TalentPlus.Domain/TalentPlus.Domain.csproj",
       "projectName": "TalentPlus.Domain",
-      "projectPath": "/home/coders/Escritorio/PD Daniel Ariza/TalentPlus/src/TalentPlus.Domain/TalentPlus.Domain.csproj",
+      "projectPath": "/home/coders/Escritorio/CSharp/Prueba-desempe-o-RA-csharp/src/TalentPlus.Domain/TalentPlus.Domain.csproj",
       "packagesPath": "/home/coders/.nuget/packages/",
-      "outputPath": "/home/coders/Escritorio/PD Daniel Ariza/TalentPlus/src/TalentPlus.Domain/obj/",
+      "outputPath": "/home/coders/Escritorio/CSharp/Prueba-desempe-o-RA-csharp/src/TalentPlus.Domain/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/coders/.nuget/NuGet/NuGet.Config"

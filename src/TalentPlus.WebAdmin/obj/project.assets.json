@@ -3993,11 +3993,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/coders/Escritorio/PD Daniel Ariza/TalentPlus/src/TalentPlus.WebAdmin/TalentPlus.WebAdmin.csproj",
+      "projectUniqueName": "/home/coders/Escritorio/CSharp/Prueba-desempe-o-RA-csharp/src/TalentPlus.WebAdmin/TalentPlus.WebAdmin.csproj",
       "projectName": "TalentPlus.WebAdmin",
-      "projectPath": "/home/coders/Escritorio/PD Daniel Ariza/TalentPlus/src/TalentPlus.WebAdmin/TalentPlus.WebAdmin.csproj",
+      "projectPath": "/home/coders/Escritorio/CSharp/Prueba-desempe-o-RA-csharp/src/TalentPlus.WebAdmin/TalentPlus.WebAdmin.csproj",
       "packagesPath": "/home/coders/.nuget/packages/",
-      "outputPath": "/home/coders/Escritorio/PD Daniel Ariza/TalentPlus/src/TalentPlus.WebAdmin/obj/",
+      "outputPath": "/home/coders/Escritorio/CSharp/Prueba-desempe-o-RA-csharp/src/TalentPlus.WebAdmin/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/coders/.nuget/NuGet/NuGet.Config"
@@ -4012,11 +4012,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "/home/coders/Escritorio/PD Daniel Ariza/TalentPlus/src/TalentPlus.Application/TalentPlus.Application.csproj": {
-              "projectPath": "/home/coders/Escritorio/PD Daniel Ariza/TalentPlus/src/TalentPlus.Application/TalentPlus.Application.csproj"
+            "/home/coders/Escritorio/CSharp/Prueba-desempe-o-RA-csharp/src/TalentPlus.Application/TalentPlus.Application.csproj": {
+              "projectPath": "/home/coders/Escritorio/CSharp/Prueba-desempe-o-RA-csharp/src/TalentPlus.Application/TalentPlus.Application.csproj"
             },
-            "/home/coders/Escritorio/PD Daniel Ariza/TalentPlus/src/TalentPlus.Domain/TalentPlus.Domain.csproj": {
-              "projectPath": "/home/coders/Escritorio/PD Daniel Ariza/TalentPlus/src/TalentPlus.Domain/TalentPlus.Domain.csproj"
+            "/home/coders/Escritorio/CSharp/Prueba-desempe-o-RA-csharp/src/TalentPlus.Domain/TalentPlus.Domain.csproj": {
+              "projectPath": "/home/coders/Escritorio/CSharp/Prueba-desempe-o-RA-csharp/src/TalentPlus.Domain/TalentPlus.Domain.csproj"
             }
           }
         }
@@ -4088,7 +4088,7 @@
       "code": "NU1603",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "TalentPlus.WebAdmin depends on EPPlus (>= 6.3.2) but EPPlus 6.3.2 was not found. EPPlus 7.0.0 was resolved instead.",
+      "message": "TalentPlus.WebAdmin depends on EPPlus (>= 6.3.2) but EPPlus 6.3.2 was not found. An approximate best match of EPPlus 7.0.0 was resolved.",
       "libraryId": "EPPlus",
       "targetGraphs": [
         "net8.0"

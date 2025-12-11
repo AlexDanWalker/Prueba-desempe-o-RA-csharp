@@ -11,8 +11,8 @@ using TalentPlus.Infrastructure.Data;
 namespace TalentPlus.Infrastructure.Migrations
 {
     [DbContext(typeof(TalentPlusDbContext))]
-    [Migration("20251209165025_InitialIdentity")]
-    partial class InitialIdentity
+    [Migration("20251211144404_InitialCreate")]
+    partial class InitialCreate
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
