@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TalentPlus.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0d6ce72a95d9e5fb971473522ad4ed855abee4ac")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1174c2c76377de2aa637c65827e78008ae56a4c3")]
 [assembly: System.Reflection.AssemblyProductAttribute("TalentPlus.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TalentPlus.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
