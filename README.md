@@ -18,6 +18,18 @@ Configurar la base de datos en appsettings.json:
 }
 ```
 
+Eliminar carpeta de migraciones, luego aplicar y crear migraciones: 
+
+ ```bash
+dotnet ef migrations add InitialCreate \
+  --project ../TalentPlus.Infrastructure \
+  --startup-project .
+
+dotnet ef database update \
+  --project ../TalentPlus.Infrastructure \
+  --startup-project .
+```
+
 Levantar la solución:
 
 ```bash
