@@ -4088,7 +4088,7 @@
       "code": "NU1603",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "TalentPlus.WebAdmin depends on EPPlus (>= 6.3.2) but EPPlus 6.3.2 was not found. An approximate best match of EPPlus 7.0.0 was resolved.",
+      "message": "TalentPlus.WebAdmin depends on EPPlus (>= 6.3.2) but EPPlus 6.3.2 was not found. EPPlus 7.0.0 was resolved instead.",
       "libraryId": "EPPlus",
       "targetGraphs": [
         "net8.0"

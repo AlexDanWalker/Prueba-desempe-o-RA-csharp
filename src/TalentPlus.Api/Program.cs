@@ -11,6 +11,7 @@ using TalentPlus.Infrastructure.Email;
 using TalentPlus.Infrastructure.Excel;
 using TalentPlus.Infrastructure.Pdf;
 using TalentPlus.Infrastructure.Repositories;
+using TalentPlus.Infrastructure.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 

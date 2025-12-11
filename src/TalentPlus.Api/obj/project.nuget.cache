@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "kKrhG6tZT0A45F3EXpWdtnjd+jv2f/f/VqLWoEVskPIEKuZGEGjHG00u9IWjlCqCHXmOz5E9cKkxd0PVXoZtFw==",
+  "dgSpecHash": "ObkLEFwnzjY=",
   "success": true,
   "projectFilePath": "/home/coders/Escritorio/CSharp/Prueba-desempe-o-RA-csharp/src/TalentPlus.Api/TalentPlus.Api.csproj",
   "expectedPackageFiles": [
@@ -126,8 +126,10 @@
     {
       "code": "NU1603",
       "level": "Warning",
+      "message": "TalentPlus.Infrastructure depends on EPPlus (>= 6.3.2) but EPPlus 6.3.2 was not found. EPPlus 7.0.0 was resolved instead.",
+      "projectPath": "/home/coders/Escritorio/CSharp/Prueba-desempe-o-RA-csharp/src/TalentPlus.Api/TalentPlus.Api.csproj",
       "warningLevel": 1,
-      "message": "TalentPlus.Infrastructure depends on EPPlus (>= 6.3.2) but EPPlus 6.3.2 was not found. An approximate best match of EPPlus 7.0.0 was resolved.",
+      "filePath": "/home/coders/Escritorio/CSharp/Prueba-desempe-o-RA-csharp/src/TalentPlus.Api/TalentPlus.Api.csproj",
       "libraryId": "EPPlus",
       "targetGraphs": [
         "net8.0"
@@ -136,8 +138,10 @@
     {
       "code": "NU1603",
       "level": "Warning",
+      "message": "TalentPlus.Infrastructure depends on MailKit (>= 4.0.2) but MailKit 4.0.2 was not found. MailKit 4.1.0 was resolved instead.",
+      "projectPath": "/home/coders/Escritorio/CSharp/Prueba-desempe-o-RA-csharp/src/TalentPlus.Api/TalentPlus.Api.csproj",
       "warningLevel": 1,
-      "message": "TalentPlus.Infrastructure depends on MailKit (>= 4.0.2) but MailKit 4.0.2 was not found. An approximate best match of MailKit 4.1.0 was resolved.",
+      "filePath": "/home/coders/Escritorio/CSharp/Prueba-desempe-o-RA-csharp/src/TalentPlus.Api/TalentPlus.Api.csproj",
       "libraryId": "MailKit",
       "targetGraphs": [
         "net8.0"
@@ -146,8 +150,10 @@
     {
       "code": "NU1603",
       "level": "Warning",
+      "message": "TalentPlus.Api depends on Swashbuckle.AspNetCore (>= 6.6.0) but Swashbuckle.AspNetCore 6.6.0 was not found. Swashbuckle.AspNetCore 6.6.1 was resolved instead.",
+      "projectPath": "/home/coders/Escritorio/CSharp/Prueba-desempe-o-RA-csharp/src/TalentPlus.Api/TalentPlus.Api.csproj",
       "warningLevel": 1,
-      "message": "TalentPlus.Api depends on Swashbuckle.AspNetCore (>= 6.6.0) but Swashbuckle.AspNetCore 6.6.0 was not found. An approximate best match of Swashbuckle.AspNetCore 6.6.1 was resolved.",
+      "filePath": "/home/coders/Escritorio/CSharp/Prueba-desempe-o-RA-csharp/src/TalentPlus.Api/TalentPlus.Api.csproj",
       "libraryId": "Swashbuckle.AspNetCore",
       "targetGraphs": [
         "net8.0"

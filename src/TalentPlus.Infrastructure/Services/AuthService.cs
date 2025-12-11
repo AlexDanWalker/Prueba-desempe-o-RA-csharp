@@ -1,13 +1,13 @@
-using Microsoft.AspNetCore.Identity;
-using Microsoft.IdentityModel.Tokens;
 using System.IdentityModel.Tokens.Jwt;
 using System.Security.Claims;
 using System.Text;
+using Microsoft.AspNetCore.Identity;
+using Microsoft.IdentityModel.Tokens;
 using TalentPlus.Application.DTOs.Employee;
 using TalentPlus.Application.Interfaces;
 using TalentPlus.Infrastructure.Email;
 
-namespace TalentPlus.Application.Services
+namespace TalentPlus.Infrastructure.Services
 {
     public class AuthService : IAuthService
     {
@@ -34,7 +34,16 @@ namespace TalentPlus.Application.Services
         }
         
         public async Task<EmployeeDto> RegisterAsync(RegisterEmployeeDto dto)
+        
         {
+            Console.WriteLine("EMAIL: '" + dto.Email + "'");
+            Console.WriteLine("PASSWORD: '" + dto.Password + "'");
+            Console.WriteLine("FIRSTNAME: '" + dto.FirstName + "'");
+            Console.WriteLine("LASTNAME: '" + dto.LastName + "'");
+            Console.WriteLine("DOCUMENT: '" + dto.Document + "'");
+            Console.WriteLine("PHONE: '" + dto.Phone + "'");
+            Console.WriteLine("ADDRESS: '" + dto.Address + "'");
+
             if (string.IsNullOrWhiteSpace(dto.Email))
                 throw new ArgumentException("Email is required", nameof(dto.Email));
 
@@ -54,7 +63,7 @@ namespace TalentPlus.Application.Services
             {
                 UserName = dto.Email.Trim(),
                 Email = dto.Email.Trim(),
-                PhoneNumber = dto.Phone?.Trim()
+                PhoneNumber = string.IsNullOrWhiteSpace(dto.Phone) ? null : dto.Phone.Trim()
             };
             
             var result = await _userManager.CreateAsync(user, dto.Password);

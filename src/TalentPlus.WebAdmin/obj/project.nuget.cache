@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "PQ95rYlqZdUzBwVXBVCT1AzygwaM4Em0xd7SEWugqVnaDiowI5qSSKmigO2Ps8+MwnD5RmlGK4jnv3O4eQ1aYQ==",
+  "dgSpecHash": "r1djnKJy9To=",
   "success": true,
   "projectFilePath": "/home/coders/Escritorio/CSharp/Prueba-desempe-o-RA-csharp/src/TalentPlus.WebAdmin/TalentPlus.WebAdmin.csproj",
   "expectedPackageFiles": [
@@ -96,8 +96,10 @@
     {
       "code": "NU1603",
       "level": "Warning",
+      "message": "TalentPlus.WebAdmin depends on EPPlus (>= 6.3.2) but EPPlus 6.3.2 was not found. EPPlus 7.0.0 was resolved instead.",
+      "projectPath": "/home/coders/Escritorio/CSharp/Prueba-desempe-o-RA-csharp/src/TalentPlus.WebAdmin/TalentPlus.WebAdmin.csproj",
       "warningLevel": 1,
-      "message": "TalentPlus.WebAdmin depends on EPPlus (>= 6.3.2) but EPPlus 6.3.2 was not found. An approximate best match of EPPlus 7.0.0 was resolved.",
+      "filePath": "/home/coders/Escritorio/CSharp/Prueba-desempe-o-RA-csharp/src/TalentPlus.WebAdmin/TalentPlus.WebAdmin.csproj",
       "libraryId": "EPPlus",
       "targetGraphs": [
         "net8.0"

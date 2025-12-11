@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "sx68V1+LjnBXThbWtvxJxrQB++YFaWYhYXe1nYk944yHenBwE4cgkHtwehA66c51zxDgjK05vSwYUL6xM69hZw==",
+  "dgSpecHash": "FrxizHiOX9Q=",
   "success": true,
   "projectFilePath": "/home/coders/Escritorio/CSharp/Prueba-desempe-o-RA-csharp/src/TalentPlus.Infrastructure/TalentPlus.Infrastructure.csproj",
   "expectedPackageFiles": [
@@ -120,8 +120,10 @@
     {
       "code": "NU1603",
       "level": "Warning",
+      "message": "TalentPlus.Infrastructure depends on EPPlus (>= 6.3.2) but EPPlus 6.3.2 was not found. EPPlus 7.0.0 was resolved instead.",
+      "projectPath": "/home/coders/Escritorio/CSharp/Prueba-desempe-o-RA-csharp/src/TalentPlus.Infrastructure/TalentPlus.Infrastructure.csproj",
       "warningLevel": 1,
-      "message": "TalentPlus.Infrastructure depends on EPPlus (>= 6.3.2) but EPPlus 6.3.2 was not found. An approximate best match of EPPlus 7.0.0 was resolved.",
+      "filePath": "/home/coders/Escritorio/CSharp/Prueba-desempe-o-RA-csharp/src/TalentPlus.Infrastructure/TalentPlus.Infrastructure.csproj",
       "libraryId": "EPPlus",
       "targetGraphs": [
         "net8.0"
@@ -130,8 +132,10 @@
     {
       "code": "NU1603",
       "level": "Warning",
+      "message": "TalentPlus.Infrastructure depends on MailKit (>= 4.0.2) but MailKit 4.0.2 was not found. MailKit 4.1.0 was resolved instead.",
+      "projectPath": "/home/coders/Escritorio/CSharp/Prueba-desempe-o-RA-csharp/src/TalentPlus.Infrastructure/TalentPlus.Infrastructure.csproj",
       "warningLevel": 1,
-      "message": "TalentPlus.Infrastructure depends on MailKit (>= 4.0.2) but MailKit 4.0.2 was not found. An approximate best match of MailKit 4.1.0 was resolved.",
+      "filePath": "/home/coders/Escritorio/CSharp/Prueba-desempe-o-RA-csharp/src/TalentPlus.Infrastructure/TalentPlus.Infrastructure.csproj",
       "libraryId": "MailKit",
       "targetGraphs": [
         "net8.0"

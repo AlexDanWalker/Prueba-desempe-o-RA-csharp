@@ -5700,7 +5700,7 @@
       "code": "NU1603",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "TalentPlus.Infrastructure depends on EPPlus (>= 6.3.2) but EPPlus 6.3.2 was not found. An approximate best match of EPPlus 7.0.0 was resolved.",
+      "message": "TalentPlus.Infrastructure depends on EPPlus (>= 6.3.2) but EPPlus 6.3.2 was not found. EPPlus 7.0.0 was resolved instead.",
       "libraryId": "EPPlus",
       "targetGraphs": [
         "net8.0"
@@ -5710,7 +5710,7 @@
       "code": "NU1603",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "TalentPlus.Infrastructure depends on MailKit (>= 4.0.2) but MailKit 4.0.2 was not found. An approximate best match of MailKit 4.1.0 was resolved.",
+      "message": "TalentPlus.Infrastructure depends on MailKit (>= 4.0.2) but MailKit 4.0.2 was not found. MailKit 4.1.0 was resolved instead.",
       "libraryId": "MailKit",
       "targetGraphs": [
         "net8.0"
